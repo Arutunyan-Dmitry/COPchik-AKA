@@ -12,10 +12,14 @@
         /// <summary>
         /// Текущее значение
         /// </summary>
-        public string CurrentValue { get; set; }
+        public string CurrentValue
+        { 
+            get { if (comboBox.SelectedItem == null) return string.Empty; return comboBox.SelectedItem.ToString(); }
+            set { if (value == string.Empty) comboBox.SelectedItem = null; else comboBox.SelectedItem = value; }
+        }
         public ArutunyanComboBox()
         {
-            InitializeComponent();
+            InitializeComponent();         
         }
         /// <summary>
         /// Метод заполнения ComboBox

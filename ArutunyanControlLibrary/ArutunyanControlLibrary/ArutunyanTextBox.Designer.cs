@@ -41,7 +41,6 @@
             this.textBox.Size = new System.Drawing.Size(425, 40);
             this.textBox.TabIndex = 0;
             this.textBox.TextChanged += new System.EventHandler(this.textBox_TextChanged);
-            this.textBox.Leave += new System.EventHandler(this.textBox_Leave);
             // 
             // ArutunyanTextBox
             // 

@@ -1,4 +1,5 @@
 ﻿using System.Runtime.Serialization;
+using System.Text;
 
 namespace ArutunyanControlLibrary
 {
@@ -11,7 +12,11 @@ namespace ArutunyanControlLibrary
         private string EndSym = "";
         private List<(string, string, List<string>)> Pattern = new List<(string, string, List<string>)>();
 
-        public int currentIndex { get; set; }
+        public int currentIndex
+        {
+            get { if (listBox.SelectedIndex == -1) return -1; return listBox.SelectedIndex;  }
+            set { if (value > listBox.Items.Count) listBox.SelectedIndex = -1; else listBox.SelectedIndex = value; }
+        }
 
         public ArutunyanListBox()
         {
@@ -72,10 +77,10 @@ namespace ArutunyanControlLibrary
         /// <exception cref="Exception"></exception>
         public void fillList<T>(List<T> items)
         {
-            string tmp;
+            StringBuilder tmp = new StringBuilder();
             foreach (var item in items)
             {
-                tmp = "";
+                tmp = new StringBuilder();
                 for (int i =0; i < Pattern.Count; i++)
                 {
                     if (item?.GetType().GetProperties()?.FirstOrDefault(x => x.Name == Pattern[i].Item2) == null)
@@ -85,7 +90,7 @@ namespace ArutunyanControlLibrary
                     var value = item?.GetType().GetProperties()?
                                                .FirstOrDefault(x => x.Name == Pattern[i].Item2)?
                                                .GetValue(item);
-                    tmp += Pattern[i].Item1 + " " + value;
+                    tmp.Append($"{Pattern[i].Item1} {value}");
                     Pattern[i].Item3.Add(value?.ToString());
                 }
                 listBox.Items.Add(tmp);
@@ -115,11 +120,6 @@ namespace ArutunyanControlLibrary
             {
                 throw new Exception("Строка не выбрана");
             }
-        }
-
-        private void listBox_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            currentIndex = listBox.SelectedIndex;
         }
     }
 }
