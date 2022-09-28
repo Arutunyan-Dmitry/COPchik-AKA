@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hzCN/Ipj5SwTArnFAwUq7/kxLo/tFwI/0xb9NQb+aQa00iAKn2faNYSCBTJG7suAnIFe9oX0S5pVHNJH4nw7dA==",
+  "success": true,
+  "projectFilePath": "D:\\Ulstu\\КОП\\ArutunyanNotVisualControlLibrary\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\retr0\\.nuget\\packages\\documentformat.openxml\\2.18.0\\documentformat.openxml.2.18.0.nupkg.sha512",
+    "C:\\Users\\retr0\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

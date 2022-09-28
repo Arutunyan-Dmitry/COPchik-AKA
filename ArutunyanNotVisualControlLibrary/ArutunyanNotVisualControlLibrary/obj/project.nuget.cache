@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gNomnnASNcoyPhrj91ejzloJv9HvNN/9/Yxw2P5XfgSeeVUjlAc+ur2A2WRq1rNEbCmYIWg1053lmQpnY3MG7g==",
+  "success": true,
+  "projectFilePath": "D:\\Ulstu\\КОП\\ArutunyanNotVisualControlLibrary\\ArutunyanNotVisualControlLibrary\\ArutunyanNotVisualControlLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\retr0\\.nuget\\packages\\documentformat.openxml\\2.18.0\\documentformat.openxml.2.18.0.nupkg.sha512",
+    "C:\\Users\\retr0\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
