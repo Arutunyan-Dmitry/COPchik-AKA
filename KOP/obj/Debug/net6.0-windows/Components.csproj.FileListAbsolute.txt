@@ -1,0 +1,16 @@
+D:\Документы\Лабораторные по КОП\KOP\KOP\bin\Debug\net6.0-windows\Components.deps.json
+D:\Документы\Лабораторные по КОП\KOP\KOP\bin\Debug\net6.0-windows\Components.dll
+D:\Документы\Лабораторные по КОП\KOP\KOP\bin\Debug\net6.0-windows\Components.pdb
+D:\Документы\Лабораторные по КОП\KOP\KOP\obj\Debug\net6.0-windows\Components.csproj.AssemblyReference.cache
+D:\Документы\Лабораторные по КОП\KOP\KOP\obj\Debug\net6.0-windows\KOP.InputControl.resources
+D:\Документы\Лабораторные по КОП\KOP\KOP\obj\Debug\net6.0-windows\KOP.OutputControl.resources
+D:\Документы\Лабораторные по КОП\KOP\KOP\obj\Debug\net6.0-windows\KOP.SelectedControl.resources
+D:\Документы\Лабораторные по КОП\KOP\KOP\obj\Debug\net6.0-windows\Components.csproj.GenerateResource.cache
+D:\Документы\Лабораторные по КОП\KOP\KOP\obj\Debug\net6.0-windows\Components.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\Лабораторные по КОП\KOP\KOP\obj\Debug\net6.0-windows\Components.AssemblyInfoInputs.cache
+D:\Документы\Лабораторные по КОП\KOP\KOP\obj\Debug\net6.0-windows\Components.AssemblyInfo.cs
+D:\Документы\Лабораторные по КОП\KOP\KOP\obj\Debug\net6.0-windows\Components.csproj.CoreCompileInputs.cache
+D:\Документы\Лабораторные по КОП\KOP\KOP\obj\Debug\net6.0-windows\Components.dll
+D:\Документы\Лабораторные по КОП\KOP\KOP\obj\Debug\net6.0-windows\refint\Components.dll
+D:\Документы\Лабораторные по КОП\KOP\KOP\obj\Debug\net6.0-windows\Components.pdb
+D:\Документы\Лабораторные по КОП\KOP\KOP\obj\Debug\net6.0-windows\ref\Components.dll
