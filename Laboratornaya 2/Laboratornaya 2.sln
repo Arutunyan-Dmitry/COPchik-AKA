@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratornaya 2", "Laboratornaya 2\Laboratornaya 2.csproj", "{5E396030-A8FA-45B5-AE24-3CAB741000A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormTest", "FormTest\FormTest.csproj", "{DAE9151D-E375-46C9-B1CA-3F2C53C38DFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E396030-A8FA-45B5-AE24-3CAB741000A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E396030-A8FA-45B5-AE24-3CAB741000A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E396030-A8FA-45B5-AE24-3CAB741000A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E396030-A8FA-45B5-AE24-3CAB741000A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAE9151D-E375-46C9-B1CA-3F2C53C38DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE9151D-E375-46C9-B1CA-3F2C53C38DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE9151D-E375-46C9-B1CA-3F2C53C38DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE9151D-E375-46C9-B1CA-3F2C53C38DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A0F2B13-23C6-431F-A087-9E4540AB2D4C}
+	EndGlobalSection
+EndGlobal
