@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UniversityBusinessLogic/1.0.0": {
+        "dependencies": {
+          "UniversityContracts": "1.0.0"
+        },
+        "runtime": {
+          "UniversityBusinessLogic.dll": {}
+        }
+      },
+      "UniversityContracts/1.0.0": {
+        "runtime": {
+          "UniversityContracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UniversityBusinessLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UniversityContracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

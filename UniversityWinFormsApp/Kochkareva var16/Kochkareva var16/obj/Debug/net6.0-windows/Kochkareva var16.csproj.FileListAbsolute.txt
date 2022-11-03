@@ -1,0 +1,32 @@
+C:\KOP\Kochkareva var16\Kochkareva var16\bin\Debug\net6.0-windows\Kochkareva var16.deps.json
+C:\KOP\Kochkareva var16\Kochkareva var16\bin\Debug\net6.0-windows\Kochkareva var16.dll
+C:\KOP\Kochkareva var16\Kochkareva var16\bin\Debug\net6.0-windows\Kochkareva var16.pdb
+C:\KOP\Kochkareva var16\Kochkareva var16\obj\Debug\net6.0-windows\Kochkareva var16.csproj.AssemblyReference.cache
+C:\KOP\Kochkareva var16\Kochkareva var16\obj\Debug\net6.0-windows\Kochkareva_var16.KochkarevaListBox.KochkarevaListBox.resources
+C:\KOP\Kochkareva var16\Kochkareva var16\obj\Debug\net6.0-windows\Kochkareva var16.csproj.GenerateResource.cache
+C:\KOP\Kochkareva var16\Kochkareva var16\obj\Debug\net6.0-windows\Kochkareva var16.GeneratedMSBuildEditorConfig.editorconfig
+C:\KOP\Kochkareva var16\Kochkareva var16\obj\Debug\net6.0-windows\Kochkareva var16.AssemblyInfoInputs.cache
+C:\KOP\Kochkareva var16\Kochkareva var16\obj\Debug\net6.0-windows\Kochkareva var16.AssemblyInfo.cs
+C:\KOP\Kochkareva var16\Kochkareva var16\obj\Debug\net6.0-windows\Kochkareva var16.csproj.CoreCompileInputs.cache
+C:\KOP\Kochkareva var16\Kochkareva var16\obj\Debug\net6.0-windows\Kochkareva var16.dll
+C:\KOP\Kochkareva var16\Kochkareva var16\obj\Debug\net6.0-windows\refint\Kochkareva var16.dll
+C:\KOP\Kochkareva var16\Kochkareva var16\obj\Debug\net6.0-windows\Kochkareva var16.pdb
+C:\KOP\Kochkareva var16\Kochkareva var16\obj\Debug\net6.0-windows\ref\Kochkareva var16.dll
+C:\KOP\Kochkareva var16\Kochkareva var16\obj\Debug\net6.0-windows\Kochkareva_var16.KochkarevaTextBox.KochkarevaTextBox.resources
+C:\KOP\Kochkareva var16\Kochkareva var16\obj\Debug\net6.0-windows\Kochkareva_var16.KochkarevaDataGridView.KochkarevaDataGridView.resources
+D:\Ulstu\КОП\UniversityWinFormsApp\Kochkareva var16\Kochkareva var16\bin\Debug\net6.0-windows\Kochkareva var16.deps.json
+D:\Ulstu\КОП\UniversityWinFormsApp\Kochkareva var16\Kochkareva var16\bin\Debug\net6.0-windows\Kochkareva var16.dll
+D:\Ulstu\КОП\UniversityWinFormsApp\Kochkareva var16\Kochkareva var16\bin\Debug\net6.0-windows\Kochkareva var16.pdb
+D:\Ulstu\КОП\UniversityWinFormsApp\Kochkareva var16\Kochkareva var16\obj\Debug\net6.0-windows\Kochkareva var16.csproj.AssemblyReference.cache
+D:\Ulstu\КОП\UniversityWinFormsApp\Kochkareva var16\Kochkareva var16\obj\Debug\net6.0-windows\Kochkareva_var16.KochkarevaDataGridView.KochkarevaDataGridView.resources
+D:\Ulstu\КОП\UniversityWinFormsApp\Kochkareva var16\Kochkareva var16\obj\Debug\net6.0-windows\Kochkareva_var16.KochkarevaListBox.KochkarevaListBox.resources
+D:\Ulstu\КОП\UniversityWinFormsApp\Kochkareva var16\Kochkareva var16\obj\Debug\net6.0-windows\Kochkareva_var16.KochkarevaTextBox.KochkarevaTextBox.resources
+D:\Ulstu\КОП\UniversityWinFormsApp\Kochkareva var16\Kochkareva var16\obj\Debug\net6.0-windows\Kochkareva var16.csproj.GenerateResource.cache
+D:\Ulstu\КОП\UniversityWinFormsApp\Kochkareva var16\Kochkareva var16\obj\Debug\net6.0-windows\Kochkareva var16.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ulstu\КОП\UniversityWinFormsApp\Kochkareva var16\Kochkareva var16\obj\Debug\net6.0-windows\Kochkareva var16.AssemblyInfoInputs.cache
+D:\Ulstu\КОП\UniversityWinFormsApp\Kochkareva var16\Kochkareva var16\obj\Debug\net6.0-windows\Kochkareva var16.AssemblyInfo.cs
+D:\Ulstu\КОП\UniversityWinFormsApp\Kochkareva var16\Kochkareva var16\obj\Debug\net6.0-windows\Kochkareva var16.csproj.CoreCompileInputs.cache
+D:\Ulstu\КОП\UniversityWinFormsApp\Kochkareva var16\Kochkareva var16\obj\Debug\net6.0-windows\Kochkareva var16.dll
+D:\Ulstu\КОП\UniversityWinFormsApp\Kochkareva var16\Kochkareva var16\obj\Debug\net6.0-windows\refint\Kochkareva var16.dll
+D:\Ulstu\КОП\UniversityWinFormsApp\Kochkareva var16\Kochkareva var16\obj\Debug\net6.0-windows\Kochkareva var16.pdb
+D:\Ulstu\КОП\UniversityWinFormsApp\Kochkareva var16\Kochkareva var16\obj\Debug\net6.0-windows\ref\Kochkareva var16.dll

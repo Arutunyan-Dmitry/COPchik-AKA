@@ -1,0 +1,28 @@
+D:\KOP\Laboratornaya 2\FormTest\obj\Debug\net6.0-windows\FormTest.csproj.AssemblyReference.cache
+D:\KOP\Laboratornaya 2\FormTest\obj\Debug\net6.0-windows\FormTest.Form1.resources
+D:\KOP\Laboratornaya 2\FormTest\obj\Debug\net6.0-windows\FormTest.csproj.GenerateResource.cache
+D:\KOP\Laboratornaya 2\FormTest\obj\Debug\net6.0-windows\FormTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\KOP\Laboratornaya 2\FormTest\obj\Debug\net6.0-windows\FormTest.AssemblyInfoInputs.cache
+D:\KOP\Laboratornaya 2\FormTest\obj\Debug\net6.0-windows\FormTest.AssemblyInfo.cs
+D:\KOP\Laboratornaya 2\FormTest\obj\Debug\net6.0-windows\FormTest.csproj.CoreCompileInputs.cache
+D:\KOP\Laboratornaya 2\FormTest\bin\Debug\net6.0-windows\FormTest.exe
+D:\KOP\Laboratornaya 2\FormTest\bin\Debug\net6.0-windows\FormTest.deps.json
+D:\KOP\Laboratornaya 2\FormTest\bin\Debug\net6.0-windows\FormTest.runtimeconfig.json
+D:\KOP\Laboratornaya 2\FormTest\bin\Debug\net6.0-windows\FormTest.dll
+D:\KOP\Laboratornaya 2\FormTest\bin\Debug\net6.0-windows\FormTest.pdb
+D:\KOP\Laboratornaya 2\FormTest\bin\Debug\net6.0-windows\MigraDoc.Rendering.dll
+D:\KOP\Laboratornaya 2\FormTest\bin\Debug\net6.0-windows\MigraDoc.DocumentObjectModel.dll
+D:\KOP\Laboratornaya 2\FormTest\bin\Debug\net6.0-windows\PdfSharp.dll
+D:\KOP\Laboratornaya 2\FormTest\bin\Debug\net6.0-windows\PdfSharp.Charting.dll
+D:\KOP\Laboratornaya 2\FormTest\bin\Debug\net6.0-windows\de\MigraDoc.Rendering.resources.dll
+D:\KOP\Laboratornaya 2\FormTest\bin\Debug\net6.0-windows\de\MigraDoc.DocumentObjectModel.resources.dll
+D:\KOP\Laboratornaya 2\FormTest\bin\Debug\net6.0-windows\de\PdfSharp.resources.dll
+D:\KOP\Laboratornaya 2\FormTest\bin\Debug\net6.0-windows\de\PdfSharp.Charting.resources.dll
+D:\KOP\Laboratornaya 2\FormTest\bin\Debug\net6.0-windows\Laboratornaya 2.dll
+D:\KOP\Laboratornaya 2\FormTest\bin\Debug\net6.0-windows\Laboratornaya 2.pdb
+D:\KOP\Laboratornaya 2\FormTest\obj\Debug\net6.0-windows\FormTest.csproj.CopyComplete
+D:\KOP\Laboratornaya 2\FormTest\obj\Debug\net6.0-windows\FormTest.dll
+D:\KOP\Laboratornaya 2\FormTest\obj\Debug\net6.0-windows\refint\FormTest.dll
+D:\KOP\Laboratornaya 2\FormTest\obj\Debug\net6.0-windows\FormTest.pdb
+D:\KOP\Laboratornaya 2\FormTest\obj\Debug\net6.0-windows\FormTest.genruntimeconfig.cache
+D:\KOP\Laboratornaya 2\FormTest\obj\Debug\net6.0-windows\ref\FormTest.dll

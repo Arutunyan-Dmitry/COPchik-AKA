@@ -1,0 +1,20 @@
+C:\KOP\Kochkareva var16\TestComponents\bin\Debug\net6.0-windows\TestComponents.exe
+C:\KOP\Kochkareva var16\TestComponents\bin\Debug\net6.0-windows\TestComponents.deps.json
+C:\KOP\Kochkareva var16\TestComponents\bin\Debug\net6.0-windows\TestComponents.runtimeconfig.json
+C:\KOP\Kochkareva var16\TestComponents\bin\Debug\net6.0-windows\TestComponents.dll
+C:\KOP\Kochkareva var16\TestComponents\bin\Debug\net6.0-windows\TestComponents.pdb
+C:\KOP\Kochkareva var16\TestComponents\bin\Debug\net6.0-windows\Kochkareva var16.dll
+C:\KOP\Kochkareva var16\TestComponents\bin\Debug\net6.0-windows\Kochkareva var16.pdb
+C:\KOP\Kochkareva var16\TestComponents\obj\Debug\net6.0-windows\TestComponents.csproj.AssemblyReference.cache
+C:\KOP\Kochkareva var16\TestComponents\obj\Debug\net6.0-windows\TestComponents.FormTestComponents.resources
+C:\KOP\Kochkareva var16\TestComponents\obj\Debug\net6.0-windows\TestComponents.csproj.GenerateResource.cache
+C:\KOP\Kochkareva var16\TestComponents\obj\Debug\net6.0-windows\TestComponents.GeneratedMSBuildEditorConfig.editorconfig
+C:\KOP\Kochkareva var16\TestComponents\obj\Debug\net6.0-windows\TestComponents.AssemblyInfoInputs.cache
+C:\KOP\Kochkareva var16\TestComponents\obj\Debug\net6.0-windows\TestComponents.AssemblyInfo.cs
+C:\KOP\Kochkareva var16\TestComponents\obj\Debug\net6.0-windows\TestComponents.csproj.CoreCompileInputs.cache
+C:\KOP\Kochkareva var16\TestComponents\obj\Debug\net6.0-windows\TestComponents.csproj.CopyComplete
+C:\KOP\Kochkareva var16\TestComponents\obj\Debug\net6.0-windows\TestComponents.dll
+C:\KOP\Kochkareva var16\TestComponents\obj\Debug\net6.0-windows\refint\TestComponents.dll
+C:\KOP\Kochkareva var16\TestComponents\obj\Debug\net6.0-windows\TestComponents.pdb
+C:\KOP\Kochkareva var16\TestComponents\obj\Debug\net6.0-windows\TestComponents.genruntimeconfig.cache
+C:\KOP\Kochkareva var16\TestComponents\obj\Debug\net6.0-windows\ref\TestComponents.dll

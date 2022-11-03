@@ -1,0 +1,392 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "Microsoft.NETCore.Platforms/2.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/_._": {}
+        }
+      },
+      "Microsoft.Win32.SystemEvents/4.5.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "2.0.0"
+        },
+        "compile": {
+          "ref/netstandard2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Win32.SystemEvents.dll": {}
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp2.0/Microsoft.Win32.SystemEvents.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          }
+        }
+      },
+      "PdfSharp.MigraDoc.Standard/1.51.15": {
+        "type": "package",
+        "dependencies": {
+          "PDFSharp.Standard": "1.51.15",
+          "PDFSharp.Standard.Charting": "1.51.15",
+          "PdfSharp.MigraDoc.Standard.DocumentObjectModel": "1.51.15",
+          "System.Drawing.Common": "4.5.0",
+          "System.Resources.Extensions": "4.6.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/MigraDoc.Rendering.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MigraDoc.Rendering.dll": {}
+        },
+        "resource": {
+          "lib/netstandard2.0/de/MigraDoc.Rendering.resources.dll": {
+            "locale": "de"
+          }
+        }
+      },
+      "PdfSharp.MigraDoc.Standard.DocumentObjectModel/1.51.15": {
+        "type": "package",
+        "dependencies": {
+          "System.Drawing.Common": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/MigraDoc.DocumentObjectModel.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MigraDoc.DocumentObjectModel.dll": {}
+        },
+        "resource": {
+          "lib/netstandard2.0/de/MigraDoc.DocumentObjectModel.resources.dll": {
+            "locale": "de"
+          }
+        }
+      },
+      "PDFSharp.Standard/1.51.15": {
+        "type": "package",
+        "dependencies": {
+          "System.Drawing.Common": "4.5.0",
+          "System.Resources.Extensions": "4.6.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/PdfSharp.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/PdfSharp.dll": {}
+        },
+        "resource": {
+          "lib/netstandard2.0/de/PdfSharp.resources.dll": {
+            "locale": "de"
+          }
+        },
+        "contentFiles": {
+          "contentFiles/any/any/_._": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": false
+          }
+        }
+      },
+      "PDFSharp.Standard.Charting/1.51.15": {
+        "type": "package",
+        "dependencies": {
+          "PDFSharp.Standard": "1.51.15",
+          "System.Drawing.Common": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/PdfSharp.Charting.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/PdfSharp.Charting.dll": {}
+        },
+        "resource": {
+          "lib/netstandard2.0/de/PdfSharp.Charting.resources.dll": {
+            "locale": "de"
+          }
+        }
+      },
+      "System.Drawing.Common/4.5.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "2.0.0",
+          "Microsoft.Win32.SystemEvents": "4.5.0"
+        },
+        "compile": {
+          "ref/netstandard2.0/System.Drawing.Common.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Drawing.Common.dll": {}
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netcoreapp2.0/System.Drawing.Common.dll": {
+            "assetType": "runtime",
+            "rid": "unix"
+          },
+          "runtimes/win/lib/netcoreapp2.0/System.Drawing.Common.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          }
+        }
+      },
+      "System.Resources.Extensions/4.6.0": {
+        "type": "package",
+        "compile": {
+          "ref/netstandard2.0/System.Resources.Extensions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Resources.Extensions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Laboratornaya 2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "PdfSharp.MigraDoc.Standard": "1.51.15"
+        },
+        "compile": {
+          "bin/placeholder/Laboratornaya 2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Laboratornaya 2.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.NETCore.Platforms/2.0.0": {
+      "sha512": "VdLJOCXhZaEMY7Hm2GKiULmn7IEPFE4XC5LPSfBVCUIA8YLZVh846gtfBJalsPQF2PlzdD7ecX7DZEulJ402ZQ==",
+      "type": "package",
+      "path": "microsoft.netcore.platforms/2.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/netstandard1.0/_._",
+        "microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+        "microsoft.netcore.platforms.nuspec",
+        "runtime.json",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "Microsoft.Win32.SystemEvents/4.5.0": {
+      "sha512": "LuI1oG+24TUj1ZRQQjM5Ew73BKnZE5NZ/7eAdh1o8ST5dPhUnJvIkiIn2re3MwnkRy6ELRnvEbBxHP8uALKhJw==",
+      "type": "package",
+      "path": "microsoft.win32.systemevents/4.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/Microsoft.Win32.SystemEvents.dll",
+        "lib/netstandard2.0/Microsoft.Win32.SystemEvents.dll",
+        "microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+        "microsoft.win32.systemevents.nuspec",
+        "ref/net461/Microsoft.Win32.SystemEvents.dll",
+        "ref/netstandard2.0/Microsoft.Win32.SystemEvents.dll",
+        "runtimes/win/lib/netcoreapp2.0/Microsoft.Win32.SystemEvents.dll",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "PdfSharp.MigraDoc.Standard/1.51.15": {
+      "sha512": "aZXAJbz86+dP+OUI9FFHl1kEWiUuHubwetkBJjgh2TYOZVGcIjQukT+PMmfHEdxbusPJ98qZuvTf8IgL7/GiwA==",
+      "type": "package",
+      "path": "pdfsharp.migradoc.standard/1.51.15",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/MigraDoc.Rendering.dll",
+        "lib/netstandard2.0/de/MigraDoc.Rendering.resources.dll",
+        "pdfsharp.migradoc.standard.1.51.15.nupkg.sha512",
+        "pdfsharp.migradoc.standard.nuspec"
+      ]
+    },
+    "PdfSharp.MigraDoc.Standard.DocumentObjectModel/1.51.15": {
+      "sha512": "gpxvahSKaSicOCfFwR78xyoDwLg4O4nbHXPBmAkZ6CIdUVnce8HolUBsVFyTlTTBob8EMtx5rX0gXhwk0M9DXw==",
+      "type": "package",
+      "path": "pdfsharp.migradoc.standard.documentobjectmodel/1.51.15",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/MigraDoc.DocumentObjectModel.dll",
+        "lib/netstandard2.0/de/MigraDoc.DocumentObjectModel.resources.dll",
+        "pdfsharp.migradoc.standard.documentobjectmodel.1.51.15.nupkg.sha512",
+        "pdfsharp.migradoc.standard.documentobjectmodel.nuspec"
+      ]
+    },
+    "PDFSharp.Standard/1.51.15": {
+      "sha512": "cv+d443GTEYA+iE7FIzMg+GYeNVG0INlXOHAC709rj7Lb6HL0xTqckasthaq8Bqttxq2e4Sny5mN/1z4dHvBOA==",
+      "type": "package",
+      "path": "pdfsharp.standard/1.51.15",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/SharpZipLib/ReadMe.txt",
+        "contentFiles/any/netstandard2.0/SharpZipLib/ReadMe.txt",
+        "lib/netstandard2.0/PdfSharp.dll",
+        "lib/netstandard2.0/de/PdfSharp.resources.dll",
+        "pdfsharp.standard.1.51.15.nupkg.sha512",
+        "pdfsharp.standard.nuspec"
+      ]
+    },
+    "PDFSharp.Standard.Charting/1.51.15": {
+      "sha512": "/ek6/iH78XfuBoMM+Me+//yT30y2Hz2k4TVmasOFBiYja54ysVRt8nLQBCZ1Ft8EY3s+4Z3GgTkEJC4a32y4WQ==",
+      "type": "package",
+      "path": "pdfsharp.standard.charting/1.51.15",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/PdfSharp.Charting.dll",
+        "lib/netstandard2.0/de/PdfSharp.Charting.resources.dll",
+        "pdfsharp.standard.charting.1.51.15.nupkg.sha512",
+        "pdfsharp.standard.charting.nuspec"
+      ]
+    },
+    "System.Drawing.Common/4.5.0": {
+      "sha512": "AiJFxxVPdeITstiRS5aAu8+8Dpf5NawTMoapZ53Gfirml24p7HIfhjmCRxdXnmmf3IUA3AX3CcW7G73CjWxW/Q==",
+      "type": "package",
+      "path": "system.drawing.common/4.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net461/System.Drawing.Common.dll",
+        "lib/netstandard2.0/System.Drawing.Common.dll",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net461/System.Drawing.Common.dll",
+        "ref/netstandard2.0/System.Drawing.Common.dll",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "runtimes/unix/lib/netcoreapp2.0/System.Drawing.Common.dll",
+        "runtimes/win/lib/netcoreapp2.0/System.Drawing.Common.dll",
+        "system.drawing.common.4.5.0.nupkg.sha512",
+        "system.drawing.common.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "System.Resources.Extensions/4.6.0": {
+      "sha512": "6aVCk8oTFZNT3Tx1jjiPi6+aipiJ3qMZYttAREKTRJidP50YvNeOn4PXrqzfA5qC23fLReq2JYp+nJwzj62HGw==",
+      "type": "package",
+      "path": "system.resources.extensions/4.6.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/netstandard2.0/System.Resources.Extensions.dll",
+        "lib/netstandard2.0/System.Resources.Extensions.xml",
+        "ref/netstandard2.0/System.Resources.Extensions.dll",
+        "ref/netstandard2.0/System.Resources.Extensions.xml",
+        "system.resources.extensions.4.6.0.nupkg.sha512",
+        "system.resources.extensions.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "Laboratornaya 2/1.0.0": {
+      "type": "project",
+      "path": "../Laboratornaya 2/Laboratornaya 2.csproj",
+      "msbuildProject": "../Laboratornaya 2/Laboratornaya 2.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "Laboratornaya 2 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\lissa\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\KOP\\Laboratornaya 2\\FormTest\\FormTest.csproj",
+      "projectName": "FormTest",
+      "projectPath": "D:\\KOP\\Laboratornaya 2\\FormTest\\FormTest.csproj",
+      "packagesPath": "C:\\Users\\lissa\\.nuget\\packages\\",
+      "outputPath": "D:\\KOP\\Laboratornaya 2\\FormTest\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\lissa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "D:\\KOP\\Laboratornaya 2\\Laboratornaya 2\\Laboratornaya 2.csproj": {
+              "projectPath": "D:\\KOP\\Laboratornaya 2\\Laboratornaya 2\\Laboratornaya 2.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

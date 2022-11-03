@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Unity" Version="5.11.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ArutunyanControlLibrary\ArutunyanControlLibrary\ArutunyanControlLibrary.csproj" />
+    <ProjectReference Include="..\ArutunyanNotVisualControlLibrary\ArutunyanNotVisualControlLibrary\ArutunyanNotVisualControlLibrary.csproj" />
+    <ProjectReference Include="..\Kochkareva var16\Kochkareva var16\Kochkareva var16.csproj" />
+    <ProjectReference Include="..\KOP\Components.csproj" />
+    <ProjectReference Include="..\Laboratornaya 2\Laboratornaya 2\Laboratornaya 2.csproj" />
+    <ProjectReference Include="..\UniversityBusinessLogic\UniversityBusinessLogic.csproj" />
+    <ProjectReference Include="..\UniversityContracts\UniversityContracts.csproj" />
+    <ProjectReference Include="..\UniversityDatabaseImplement\UniversityDatabaseImplement.csproj" />
+  </ItemGroup>
+
+</Project>

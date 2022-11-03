@@ -1,0 +1,17 @@
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityDatabaseImplement\bin\Debug\net6.0\UniversityDatabaseImplement.deps.json
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityDatabaseImplement\bin\Debug\net6.0\UniversityDatabaseImplement.runtimeconfig.json
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityDatabaseImplement\bin\Debug\net6.0\UniversityDatabaseImplement.dll
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityDatabaseImplement\bin\Debug\net6.0\UniversityDatabaseImplement.pdb
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityDatabaseImplement\obj\Debug\net6.0\UniversityDatabaseImplement.csproj.AssemblyReference.cache
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityDatabaseImplement\obj\Debug\net6.0\UniversityDatabaseImplement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityDatabaseImplement\obj\Debug\net6.0\UniversityDatabaseImplement.AssemblyInfoInputs.cache
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityDatabaseImplement\obj\Debug\net6.0\UniversityDatabaseImplement.AssemblyInfo.cs
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityDatabaseImplement\obj\Debug\net6.0\UniversityDatabaseImplement.csproj.CoreCompileInputs.cache
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityDatabaseImplement\obj\Debug\net6.0\UniversityDatabaseImplement.dll
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityDatabaseImplement\obj\Debug\net6.0\refint\UniversityDatabaseImplement.dll
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityDatabaseImplement\obj\Debug\net6.0\UniversityDatabaseImplement.pdb
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityDatabaseImplement\obj\Debug\net6.0\UniversityDatabaseImplement.genruntimeconfig.cache
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityDatabaseImplement\obj\Debug\net6.0\ref\UniversityDatabaseImplement.dll
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityDatabaseImplement\bin\Debug\net6.0\UniversityContracts.dll
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityDatabaseImplement\bin\Debug\net6.0\UniversityContracts.pdb
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityDatabaseImplement\obj\Debug\net6.0\UniversityDatabaseImplement.csproj.CopyComplete

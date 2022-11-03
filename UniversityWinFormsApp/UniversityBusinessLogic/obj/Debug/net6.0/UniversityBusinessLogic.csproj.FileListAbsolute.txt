@@ -1,0 +1,15 @@
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityBusinessLogic\bin\Debug\net6.0\UniversityBusinessLogic.deps.json
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityBusinessLogic\bin\Debug\net6.0\UniversityBusinessLogic.dll
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityBusinessLogic\bin\Debug\net6.0\UniversityBusinessLogic.pdb
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityBusinessLogic\bin\Debug\net6.0\UniversityContracts.dll
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityBusinessLogic\bin\Debug\net6.0\UniversityContracts.pdb
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityBusinessLogic\obj\Debug\net6.0\UniversityBusinessLogic.csproj.AssemblyReference.cache
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityBusinessLogic\obj\Debug\net6.0\UniversityBusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityBusinessLogic\obj\Debug\net6.0\UniversityBusinessLogic.AssemblyInfoInputs.cache
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityBusinessLogic\obj\Debug\net6.0\UniversityBusinessLogic.AssemblyInfo.cs
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityBusinessLogic\obj\Debug\net6.0\UniversityBusinessLogic.csproj.CoreCompileInputs.cache
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityBusinessLogic\obj\Debug\net6.0\UniversityBusinessLogic.csproj.CopyComplete
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityBusinessLogic\obj\Debug\net6.0\UniversityBusinessLogic.dll
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityBusinessLogic\obj\Debug\net6.0\refint\UniversityBusinessLogic.dll
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityBusinessLogic\obj\Debug\net6.0\UniversityBusinessLogic.pdb
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityBusinessLogic\obj\Debug\net6.0\ref\UniversityBusinessLogic.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "I8hfn0drKBN0X8x0CGPDWMVQxaZ4WKYKPvGPBVBuxJx5yaNnkLJMZi77w1QQnsKFIqEqitiC1WDqAH8G6Ykvmg==",
+  "success": true,
+  "projectFilePath": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\KOP\\Components.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\retr0\\.nuget\\packages\\documentformat.openxml\\2.18.0\\documentformat.openxml.2.18.0.nupkg.sha512",
+    "C:\\Users\\retr0\\.nuget\\packages\\exceldna.interop\\15.0.0\\exceldna.interop.15.0.0.nupkg.sha512",
+    "C:\\Users\\retr0\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

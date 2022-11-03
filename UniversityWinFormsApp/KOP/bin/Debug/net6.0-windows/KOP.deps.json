@@ -1,0 +1,76 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "KOP/1.0.0": {
+        "dependencies": {
+          "DocumentFormat.OpenXml": "2.18.0",
+          "ExcelDna.Interop": "15.0.0"
+        },
+        "runtime": {
+          "KOP.dll": {}
+        }
+      },
+      "DocumentFormat.OpenXml/2.18.0": {
+        "dependencies": {
+          "System.IO.Packaging": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/DocumentFormat.OpenXml.dll": {
+            "assemblyVersion": "2.18.0.0",
+            "fileVersion": "2.18.0.0"
+          }
+        }
+      },
+      "ExcelDna.Interop/15.0.0": {
+        "runtime": {
+          "lib/net6.0-windows7.0/Microsoft.Office.Interop.Excel.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.4569.1506"
+          },
+          "lib/net6.0-windows7.0/Microsoft.Vbe.Interop.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.4561.1000"
+          },
+          "lib/net6.0-windows7.0/Office.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.4613.1000"
+          }
+        }
+      },
+      "System.IO.Packaging/4.7.0": {}
+    }
+  },
+  "libraries": {
+    "KOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DocumentFormat.OpenXml/2.18.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5fmehgA7WmJD551QwBhvjSsEmMbCQ/yfW83ZLfbPx1TeQGm0ikGIwAvz/XfO4veCjYWpBQfFH9elVhC2Y+HatQ==",
+      "path": "documentformat.openxml/2.18.0",
+      "hashPath": "documentformat.openxml.2.18.0.nupkg.sha512"
+    },
+    "ExcelDna.Interop/15.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pBVR6P/nPZ58Pgtp2g2TSQKfR9gzh7wIktd7zRSr3JNHt3/V22M2SGudWI7LdZiq8lM/3iO89qov6K/blcLzwA==",
+      "path": "exceldna.interop/15.0.0",
+      "hashPath": "exceldna.interop.15.0.0.nupkg.sha512"
+    },
+    "System.IO.Packaging/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9VV4KAbgRQZ79iEoG40KIeZy38O30oWwewScAST879+oki8g/Wa2HXZQgrhDDxQM4GkP1PnRJll05NMiVPbYAw==",
+      "path": "system.io.packaging/4.7.0",
+      "hashPath": "system.io.packaging.4.7.0.nupkg.sha512"
+    }
+  }
+}

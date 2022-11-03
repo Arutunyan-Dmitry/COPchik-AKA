@@ -1,0 +1,12 @@
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityContracts\bin\Debug\net6.0\UniversityContracts.deps.json
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityContracts\bin\Debug\net6.0\UniversityContracts.dll
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityContracts\bin\Debug\net6.0\UniversityContracts.pdb
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityContracts\obj\Debug\net6.0\UniversityContracts.csproj.AssemblyReference.cache
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityContracts\obj\Debug\net6.0\UniversityContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityContracts\obj\Debug\net6.0\UniversityContracts.AssemblyInfoInputs.cache
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityContracts\obj\Debug\net6.0\UniversityContracts.AssemblyInfo.cs
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityContracts\obj\Debug\net6.0\UniversityContracts.csproj.CoreCompileInputs.cache
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityContracts\obj\Debug\net6.0\UniversityContracts.dll
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityContracts\obj\Debug\net6.0\refint\UniversityContracts.dll
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityContracts\obj\Debug\net6.0\UniversityContracts.pdb
+D:\Ulstu\КОП\UniversityWinFormsApp\UniversityContracts\obj\Debug\net6.0\ref\UniversityContracts.dll

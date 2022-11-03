@@ -1,0 +1,649 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\UniversityWinFormsApp\\UniversityWinFormsApp.csproj": {}
+  },
+  "projects": {
+    "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\ArutunyanControlLibrary\\ArutunyanControlLibrary\\ArutunyanControlLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\ArutunyanControlLibrary\\ArutunyanControlLibrary\\ArutunyanControlLibrary.csproj",
+        "projectName": "ArutunyanControlLibrary",
+        "projectPath": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\ArutunyanControlLibrary\\ArutunyanControlLibrary\\ArutunyanControlLibrary.csproj",
+        "packagesPath": "C:\\Users\\retr0\\.nuget\\packages\\",
+        "outputPath": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\ArutunyanControlLibrary\\ArutunyanControlLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\retr0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\ArutunyanNotVisualControlLibrary\\ArutunyanNotVisualControlLibrary\\ArutunyanNotVisualControlLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\ArutunyanNotVisualControlLibrary\\ArutunyanNotVisualControlLibrary\\ArutunyanNotVisualControlLibrary.csproj",
+        "projectName": "ArutunyanNotVisualControlLibrary",
+        "projectPath": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\ArutunyanNotVisualControlLibrary\\ArutunyanNotVisualControlLibrary\\ArutunyanNotVisualControlLibrary.csproj",
+        "packagesPath": "C:\\Users\\retr0\\.nuget\\packages\\",
+        "outputPath": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\ArutunyanNotVisualControlLibrary\\ArutunyanNotVisualControlLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\retr0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.18.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\Kochkareva var16\\Kochkareva var16\\Kochkareva var16.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\Kochkareva var16\\Kochkareva var16\\Kochkareva var16.csproj",
+        "projectName": "Kochkareva var16",
+        "projectPath": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\Kochkareva var16\\Kochkareva var16\\Kochkareva var16.csproj",
+        "packagesPath": "C:\\Users\\retr0\\.nuget\\packages\\",
+        "outputPath": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\Kochkareva var16\\Kochkareva var16\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\retr0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\KOP\\Components.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\KOP\\Components.csproj",
+        "projectName": "Components",
+        "projectPath": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\KOP\\Components.csproj",
+        "packagesPath": "C:\\Users\\retr0\\.nuget\\packages\\",
+        "outputPath": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\KOP\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\retr0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.18.0, )"
+            },
+            "ExcelDna.Interop": {
+              "target": "Package",
+              "version": "[15.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\Laboratornaya 2\\Laboratornaya 2\\Laboratornaya 2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\Laboratornaya 2\\Laboratornaya 2\\Laboratornaya 2.csproj",
+        "projectName": "Laboratornaya 2",
+        "projectPath": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\Laboratornaya 2\\Laboratornaya 2\\Laboratornaya 2.csproj",
+        "packagesPath": "C:\\Users\\retr0\\.nuget\\packages\\",
+        "outputPath": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\Laboratornaya 2\\Laboratornaya 2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\retr0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "PdfSharp.MigraDoc.Standard": {
+              "target": "Package",
+              "version": "[1.51.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\UniversityBusinessLogic\\UniversityBusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\UniversityBusinessLogic\\UniversityBusinessLogic.csproj",
+        "projectName": "UniversityBusinessLogic",
+        "projectPath": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\UniversityBusinessLogic\\UniversityBusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\retr0\\.nuget\\packages\\",
+        "outputPath": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\UniversityBusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\retr0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\UniversityContracts\\UniversityContracts.csproj": {
+                "projectPath": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\UniversityContracts\\UniversityContracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\UniversityContracts\\UniversityContracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\UniversityContracts\\UniversityContracts.csproj",
+        "projectName": "UniversityContracts",
+        "projectPath": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\UniversityContracts\\UniversityContracts.csproj",
+        "packagesPath": "C:\\Users\\retr0\\.nuget\\packages\\",
+        "outputPath": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\UniversityContracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\retr0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\UniversityDatabaseImplement\\UniversityDatabaseImplement.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\UniversityDatabaseImplement\\UniversityDatabaseImplement.csproj",
+        "projectName": "UniversityDatabaseImplement",
+        "projectPath": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\UniversityDatabaseImplement\\UniversityDatabaseImplement.csproj",
+        "packagesPath": "C:\\Users\\retr0\\.nuget\\packages\\",
+        "outputPath": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\UniversityDatabaseImplement\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\retr0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\UniversityContracts\\UniversityContracts.csproj": {
+                "projectPath": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\UniversityContracts\\UniversityContracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\UniversityWinFormsApp\\UniversityWinFormsApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\UniversityWinFormsApp\\UniversityWinFormsApp.csproj",
+        "projectName": "UniversityWinFormsApp",
+        "projectPath": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\UniversityWinFormsApp\\UniversityWinFormsApp.csproj",
+        "packagesPath": "C:\\Users\\retr0\\.nuget\\packages\\",
+        "outputPath": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\UniversityWinFormsApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\retr0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\ArutunyanControlLibrary\\ArutunyanControlLibrary\\ArutunyanControlLibrary.csproj": {
+                "projectPath": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\ArutunyanControlLibrary\\ArutunyanControlLibrary\\ArutunyanControlLibrary.csproj"
+              },
+              "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\ArutunyanNotVisualControlLibrary\\ArutunyanNotVisualControlLibrary\\ArutunyanNotVisualControlLibrary.csproj": {
+                "projectPath": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\ArutunyanNotVisualControlLibrary\\ArutunyanNotVisualControlLibrary\\ArutunyanNotVisualControlLibrary.csproj"
+              },
+              "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\Kochkareva var16\\Kochkareva var16\\Kochkareva var16.csproj": {
+                "projectPath": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\Kochkareva var16\\Kochkareva var16\\Kochkareva var16.csproj"
+              },
+              "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\KOP\\Components.csproj": {
+                "projectPath": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\KOP\\Components.csproj"
+              },
+              "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\Laboratornaya 2\\Laboratornaya 2\\Laboratornaya 2.csproj": {
+                "projectPath": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\Laboratornaya 2\\Laboratornaya 2\\Laboratornaya 2.csproj"
+              },
+              "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\UniversityBusinessLogic\\UniversityBusinessLogic.csproj": {
+                "projectPath": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\UniversityBusinessLogic\\UniversityBusinessLogic.csproj"
+              },
+              "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\UniversityContracts\\UniversityContracts.csproj": {
+                "projectPath": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\UniversityContracts\\UniversityContracts.csproj"
+              },
+              "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\UniversityDatabaseImplement\\UniversityDatabaseImplement.csproj": {
+                "projectPath": "D:\\Ulstu\\КОП\\UniversityWinFormsApp\\UniversityDatabaseImplement\\UniversityDatabaseImplement.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Unity": {
+              "target": "Package",
+              "version": "[5.11.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
